@@ -1,0 +1,22 @@
+
+.root {
+	-fx-spacing: 20;
+	-fx-alignment: center;
+}
+
+.label{
+	-fx-font-size: 50;
+	-fx-font-weight: bold;
+}
+
+#numbersBox {
+	-fx-alignment: center;
+}
+
+#operationsBox{
+	-fx-alignment: center;
+}
+
+#numberField{
+	-fx-max-width: 100;
+}
